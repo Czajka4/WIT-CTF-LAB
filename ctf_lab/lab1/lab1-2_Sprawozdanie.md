@@ -1,4 +1,4 @@
-## CTF Laboratorium nr 1  
+## CTF Laboratorium nr 1/2  
 ### 07.11.2021
 
 ```
