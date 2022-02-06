@@ -1,6 +1,6 @@
 > CTF Laboratorium nr 3/4
 > 
->    Mikołaj Czajka       
+>    Mikołaj Cz.      
 > 
 > 2022
 
@@ -122,7 +122,4 @@ jest zmniejszana do 3 bitów. Następnia rozdzielczość jest zmieniana do 24 bi
    
 
 
-
-***
-### `Zadanie 4. Jitter i błędy synchronizacji zegarów`
 
