@@ -1,8 +1,7 @@
-## CTF Laboratorium nr 1/2  
-### 07.11.2021
 
 ```
-    Mikołaj Czajka    
+    CTF Laboratorium nr 1/2  
+    Mikołaj Cz 
     wykorzystane słuchawki: LG TONE Free FN4
 ```
 ***
